@@ -20,7 +20,7 @@ namespace Northwin.WebFormsUI
         {
             InitializeComponent();
         }
-        IProductService _productService = new ProductManager(new NhProductDal());
+        IProductService _productService = new ProductManager(new EfProductDal());
         private void Form1_Load(object sender, EventArgs e)
         {
             
