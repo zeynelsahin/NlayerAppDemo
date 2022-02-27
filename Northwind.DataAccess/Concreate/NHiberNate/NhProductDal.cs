@@ -5,6 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using Northwind.DataAccess.Abstract;
+using NorthwinEntities.Concreate;
 
 namespace Northwind.DataAccess.Concreate.NHiberNate
 {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NorthwinEntities.Abstract;
 
-namespace Northwind.DataAccess.Concreate
+namespace NorthwinEntities.Concreate
 {
     public class Product:IEntity
     {

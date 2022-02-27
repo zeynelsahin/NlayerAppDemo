@@ -54,7 +54,6 @@
     <Compile Include="Abstract\IEntityRepository.cs" />
     <Compile Include="Abstract\ICategoryDal.cs" />
     <Compile Include="Abstract\IProductDal.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Concreate\EntityFramework\EfCategoryDal.cs" />
     <Compile Include="Concreate\EntityFramework\EfEntityReposistoryBase.cs" />
     <Compile Include="Concreate\EntityFramework\NorthwindContext.cs" />
